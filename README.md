@@ -17,6 +17,6 @@ Scan network Usage:- ./portscanner.py [network] [start port] [end port] -n
 ## Install
 
 ```
-https://github.com/Cru-zen/P07-Port_Scanner_MASTER.git
+git clone https://github.com/Cru-zen/P07-Port_Scanner_MASTER.git
 ```
 
